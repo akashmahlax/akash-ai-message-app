@@ -9,7 +9,7 @@ export default function Loading() {
         <CardHeader className="bg-gradient-to-r from-purple-400 to-blue-500 text-white">
           <CardTitle className="text-2xl font-bold">Ai Chat</CardTitle>
         </CardHeader>
-        <CardContent className="bg-gray-100">
+        <CardContent className="bg-gray-600">
           <div className="space-y-4 mb-4 h-[500px] overflow-y-auto p-4 rounded-lg bg-white shadow-inner">
             <Skeleton className="h-[500px] w-full rounded-lg" />
           </div>

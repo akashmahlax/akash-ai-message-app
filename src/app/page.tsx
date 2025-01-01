@@ -42,7 +42,7 @@ export default function ChatInterface() {
   }
 
   return (
-    <div className="container max-w-4xl mx-auto p-4">
+    <div className="containe max-w-4xl mx-auto p-4">
       <Card className="shadow-lg">
         <CardHeader className="bg-gradient-to-r from-purple-400 to-blue-500 text-white">
           <CardTitle className="text-2xl font-bold">Ai Chat `ਪੰਜਾਬੀ`  </CardTitle>
@@ -76,7 +76,8 @@ export default function ChatInterface() {
                   <Bot size={18} />
                 </div>
                 <div className="p-4 rounded-xl bg-gray-200">
-                  <p>Thinking...</p>
+                  <p>Akash Thinking...</p>
+                 
                 </div>
               </div>
             )}
