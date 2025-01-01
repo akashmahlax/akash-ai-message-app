@@ -45,7 +45,7 @@ export default function ChatInterface() {
     <div className="container max-w-4xl mx-auto p-4">
       <Card className="shadow-lg">
         <CardHeader className="bg-gradient-to-r from-purple-400 to-blue-500 text-white">
-          <CardTitle className="text-2xl font-bold">Ai Chat</CardTitle>
+          <CardTitle className="text-2xl font-bold">Ai Chat `ਪੰਜਾਬੀ`  </CardTitle>
         </CardHeader>
         <CardContent className="bg-gray-100">
           <div className="space-y-4 mb-4 h-[500px] overflow-y-auto p-4 rounded-lg bg-white shadow-inner">
